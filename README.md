@@ -1,4 +1,4 @@
-# DaleelAI: Intelligent Corporate Onboarding Agent 🤖🚀
+# DaleelAI: Intelligent Corporate Onboarding Agent 
 
 ### Transforming stagnant company documents into an interactive, 24/7 intelligent knowledge base.
 
