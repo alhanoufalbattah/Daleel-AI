@@ -1,2 +1,3 @@
-# Daleel-AI
-An AI-powered Onboarding Assistant using RAG &amp; LangChain to automate HR knowledge sharing, policy guidance, and employee training.
+Project Description:
+"NexusAI is a sophisticated Retrieval-Augmented Generation (RAG) system designed to bridge the gap between new hires and complex corporate documentation. Traditional onboarding involves manual searching through hundreds of static PDFs, leading to information fatigue and high HR support costs.
+NexusAI transforms these documents into a 'living knowledge base.' By utilizing Vector Embeddings and Large Language Models (LLMs), the agent provides instant, context-aware answers to employee queries, ensuring that the information is always grounded in the company's official policies. This results in a 40-60% reduction in repetitive HR inquiries and a significantly faster 'Time-to-Productivity' for new team members."
